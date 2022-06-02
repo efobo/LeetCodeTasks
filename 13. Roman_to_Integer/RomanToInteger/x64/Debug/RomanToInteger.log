@@ -1,0 +1,4 @@
+﻿  RomanToInteger.cpp
+C:\codeCPP\RomanToInteger\RomanToInteger\RomanToInteger.cpp(11,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\codeCPP\RomanToInteger\RomanToInteger\RomanToInteger.cpp(11,31): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  RomanToInteger.vcxproj -> C:\codeCPP\RomanToInteger\x64\Debug\RomanToInteger.exe

@@ -1,0 +1,6 @@
+﻿  Transpose_Matrix.cpp
+C:\codeCPP\LeetCode\Transpose_Matrix\Transpose_Matrix\Transpose_Matrix.cpp(10,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\codeCPP\LeetCode\Transpose_Matrix\Transpose_Matrix\Transpose_Matrix.cpp(11,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\codeCPP\LeetCode\Transpose_Matrix\Transpose_Matrix\Transpose_Matrix.cpp(31,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\codeCPP\LeetCode\Transpose_Matrix\Transpose_Matrix\Transpose_Matrix.cpp(32,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Transpose_Matrix.vcxproj -> C:\codeCPP\LeetCode\Transpose_Matrix\x64\Debug\Transpose_Matrix.exe

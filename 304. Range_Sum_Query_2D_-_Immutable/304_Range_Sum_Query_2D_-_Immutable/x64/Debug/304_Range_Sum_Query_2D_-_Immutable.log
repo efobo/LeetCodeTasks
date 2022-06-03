@@ -1,0 +1,4 @@
+﻿  304_Range_Sum_Query_2D_-_Immutable.cpp
+C:\codeCPP\LeetCode\304_Range_Sum_Query_2D_-_Immutable\304_Range_Sum_Query_2D_-_Immutable\304_Range_Sum_Query_2D_-_Immutable.cpp(16,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\codeCPP\LeetCode\304_Range_Sum_Query_2D_-_Immutable\304_Range_Sum_Query_2D_-_Immutable\304_Range_Sum_Query_2D_-_Immutable.cpp(17,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  304_Range_Sum_Query_2D_-_Immutable.vcxproj -> C:\codeCPP\LeetCode\304_Range_Sum_Query_2D_-_Immutable\x64\Debug\304_Range_Sum_Query_2D_-_Immutable.exe
